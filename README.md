@@ -51,7 +51,7 @@ pip install -r requirements.txt
 - The format includes pairs of coordinates, representing points in the dataset.
 
 ## 🖼️ Screenshots
-- (Screenshots of the application in action would be included here)
+![image](https://github.com/prosmeli/e18186_ted/assets/31828376/d9c74917-825b-4320-9f45-4e3a9fc92c53)
 
 ## Contact 📧
 Panagiotis Moschos - panagmosx@hotmail.com
